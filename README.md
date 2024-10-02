@@ -1,2 +1,2 @@
 # Vue_projects
-soem done soem testing projects from Vue
+some done projects from Vue
